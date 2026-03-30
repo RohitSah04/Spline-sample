@@ -16,7 +16,7 @@ body{
     right: 0;
     opacity: 0.5;
     z-index: -1;
-} 
+}
 .layer-blur{
     height: 0;
     width: 30rem;
