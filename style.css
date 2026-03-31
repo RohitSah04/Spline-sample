@@ -34,7 +34,6 @@ body{
     position: relative;
     overflow: hidden;
 }
-
 header{
     display: flex;
     justify-content: space-between;
